@@ -1,4 +1,4 @@
 ## Software installation:
 ```
-conda install -c biocore hmmer
+conda install hmmer
 ```
