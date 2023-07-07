@@ -1,5 +1,5 @@
 ## Software installation:
 ```
 conda install hmmer
-conda search seqtk
+conda install seqtk
 ```
