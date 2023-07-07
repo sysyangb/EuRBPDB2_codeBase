@@ -1,4 +1,7 @@
 #!/bin/bash
+# wrote by: yangbing 
+# date:20230707 
+# version:1 
 for fa in $(cat faList.txt)
 do
   dir=`basename $fa .pep.all.fa`
