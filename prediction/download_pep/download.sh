@@ -1,4 +1,4 @@
 #!/bin/bash
-# wrote: yangbing
+# wrote: 
 # date: 20230708
 # version: 1
